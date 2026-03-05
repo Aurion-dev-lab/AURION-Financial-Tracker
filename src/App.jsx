@@ -8,7 +8,7 @@ import ExpenseTracker from './components/ExpenseTracker';
 import WorkTracker from './components/WorkTracker';
 
 const foundersNames = [
-  "Minoka Induwara", "Minidu Oshan", "Chamidu Irosh", "Amila Sandeepa", "Dilhara Samaranayake", "Dilusha Madushan", "Kavishan Rathnayake"
+  "Minoka Induwara", "Minidu Oshan", "Chamidu Irosh", "Amila Sandeepa", "Dilusha Madushan", "Kavishan Rathnayake", "Erandi Wathsala"
 ];
 
 function App() {
